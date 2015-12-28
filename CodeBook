@@ -1,5 +1,6 @@
-The "mytidy" data reports the mean for each activity (Group.1) and each subject (Group.2) for subset of columns
-from the original data that are associated with the mean or std of the measurements.
+The "tidyData" data reports the mean for each activity (Group.1) and each subject (Group.2) for subset
+of columns from the original data that are associated with the mean or std of the measurements. Column
+names in tidyData have been changed to lower case and non-letter characters have been deleted.
 
 
 
